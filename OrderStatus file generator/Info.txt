@@ -1,0 +1,6 @@
+Its take the shopify Export order file their column then
+generate orderstatus file make some col values:
+1. Hardcoded
+2. incremental
+3. repeated 
+4. Dynamic

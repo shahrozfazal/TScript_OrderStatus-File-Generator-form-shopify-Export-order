@@ -1,0 +1,30 @@
+Document Number,PO/Check Number,WMS Order Num,System Date,Actual Ship Date,Time of Day,Line Number,Quantity,Quantity Shipped,Model Number,Customer Model Number,UPC Code,Item Description,Ship Via,WMS Total No of Carton,Item Tracking #,WMS Individual Carton,Ship method name,Vendor Name,Bill of Lading,Processed Flag,Status of Order
+SO410269,6397806018725,,12/27/2025,12/27/2025,20:35:16,1,1,1,slgt005,,29665206732,Kodo Constant Force Tourbillon SLGT005,Shopify,1,TCS5353959,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410269,6397806018725,,12/27/2025,12/27/2025,20:35:16,2,2,1,sbgd215,,29665206732,Spring Drive 8 Day SBGD215,Shopify,1,TCS5353959,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410269,6397806018725,,12/27/2025,12/27/2025,20:35:16,3,5,1,sbgx265,,29665206732,Quartz SBGX265,Shopify,1,TCS5353959,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410269,6397806018725,,12/27/2025,12/27/2025,20:35:16,4,5,1,sbgm255,,29665206732,Automatic GMT SBGM255,Shopify,1,TCS5353959,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410269,6397806018725,,12/27/2025,12/27/2025,20:35:16,5,5,1,sbgm257,,29665206732,Automatic GMT SBGM257,Shopify,1,TCS5353959,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410269,6397806018725,,12/27/2025,12/27/2025,20:35:16,6,5,1,slgc009,,29665206732,Hi-Beat 36000 Automatic Chronograph Tokyo Lion SLGC009,Shopify,1,TCS5353959,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410270,6397789864101,,12/27/2025,12/27/2025,20:35:16,1,10,1,sbgm257,,29665206732,Automatic GMT SBGM257,Shopify,1,TCS5353960,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410270,6397789864101,,12/27/2025,12/27/2025,20:35:16,2,1,1,sbgx265,,29665206732,Quartz SBGX265,Shopify,1,TCS5353960,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410270,6397789864101,,12/27/2025,12/27/2025,20:35:16,3,10,1,slgt005,,29665206732,Kodo Constant Force Tourbillon SLGT005,Shopify,1,TCS5353960,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410270,6397789864101,,12/27/2025,12/27/2025,20:35:16,4,2,1,sbgj277,,29665206732,Hi-Beat 36000 GMT SBGJ277,Shopify,1,TCS5353960,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410271,6397743333541,,12/27/2025,12/27/2025,20:35:16,1,2,1,sbgd215,,29665206732,Spring Drive 8 Day SBGD215,Shopify,1,TCS5353961,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410271,6397743333541,,12/27/2025,12/27/2025,20:35:16,2,10,1,sbgx265,,29665206732,Quartz SBGX265,Shopify,1,TCS5353961,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410271,6397743333541,,12/27/2025,12/27/2025,20:35:16,3,1,1,sbgj277,,29665206732,Hi-Beat 36000 GMT SBGJ277,Shopify,1,TCS5353961,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410271,6397743333541,,12/27/2025,12/27/2025,20:35:16,4,10,1,sbgm255,,29665206732,Automatic GMT SBGM255,Shopify,1,TCS5353961,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410272,6397665738917,,12/27/2025,12/27/2025,20:35:16,1,10,1,sbgm257,,29665206732,Automatic GMT SBGM257,Shopify,1,TCS5353962,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410272,6397665738917,,12/27/2025,12/27/2025,20:35:16,2,5,1,sbgx265,,29665206732,Quartz SBGX265,Shopify,1,TCS5353962,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410272,6397665738917,,12/27/2025,12/27/2025,20:35:16,3,1,1,slgt005,,29665206732,Kodo Constant Force Tourbillon SLGT005,Shopify,1,TCS5353962,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410272,6397665738917,,12/27/2025,12/27/2025,20:35:16,4,10,1,sbgd215,,29665206732,Spring Drive 8 Day SBGD215,Shopify,1,TCS5353962,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410273,6397629530277,,12/27/2025,12/27/2025,20:35:16,1,5,1,sbgm257,,29665206732,Automatic GMT SBGM257,Shopify,1,TCS5353963,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410273,6397629530277,,12/27/2025,12/27/2025,20:35:16,2,1,1,sbgm255,,29665206732,Automatic GMT SBGM255,Shopify,1,TCS5353963,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410273,6397629530277,,12/27/2025,12/27/2025,20:35:16,3,2,1,sbgx265,,29665206732,Quartz SBGX265,Shopify,1,TCS5353963,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410273,6397629530277,,12/27/2025,12/27/2025,20:35:16,4,5,1,slgt005,,29665206732,Kodo Constant Force Tourbillon SLGT005,Shopify,1,TCS5353963,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410273,6397629530277,,12/27/2025,12/27/2025,20:35:16,5,1,1,sbgd215,,29665206732,Spring Drive 8 Day SBGD215,Shopify,1,TCS5353963,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410273,6397629530277,,12/27/2025,12/27/2025,20:35:16,6,1,1,sbgj277,,29665206732,Hi-Beat 36000 GMT SBGJ277,Shopify,1,TCS5353963,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410273,6397629530277,,12/27/2025,12/27/2025,20:35:16,7,1,1,slgc009,,29665206732,Hi-Beat 36000 Automatic Chronograph Tokyo Lion SLGC009,Shopify,1,TCS5353963,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410274,6397609050277,,12/27/2025,12/27/2025,20:35:16,1,1,1,sbgx265,,29665206732,Quartz SBGX265,Shopify,1,TCS5353964,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410274,6397609050277,,12/27/2025,12/27/2025,20:35:16,2,1,1,sbgd215,,29665206732,Spring Drive 8 Day SBGD215,Shopify,1,TCS5353964,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410274,6397609050277,,12/27/2025,12/27/2025,20:35:16,3,3,1,sbgj277,,29665206732,Hi-Beat 36000 GMT SBGJ277,Shopify,1,TCS5353964,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
+SO410274,6397609050277,,12/27/2025,12/27/2025,20:35:16,4,1,1,sbgm255,,29665206732,Automatic GMT SBGM255,Shopify,1,TCS5353964,1,Bogus,Grand Seiko,Processed,Y,Credit-Processed
